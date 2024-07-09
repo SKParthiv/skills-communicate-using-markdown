@@ -6,3 +6,10 @@
 ###### Another One
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Snippet
+```
+var hello = "Hello, World"
+
+cosnsole.log(hello)
+```
