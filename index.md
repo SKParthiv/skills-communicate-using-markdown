@@ -13,3 +13,7 @@ var hello = "Hello, World"
 
 cosnsole.log(hello)
 ```
+
+- [x] Task 1
+- [ ] task 2
+- [ ] Task 3
